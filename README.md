@@ -1,4 +1,4 @@
-![{5C9FDF59-78D8-44ED-8B6D-0C0845C1B895}](https://github.com/user-attachments/assets/22886000-a5ec-4ec5-8acf-205056513eed)# INVERSE-OF-A-MATRIX
+# INVERSE-OF-A-MATRIX
 ## Aim:
 To write a python program to find the inverse of a matrix
 ## Equipment’s required:
