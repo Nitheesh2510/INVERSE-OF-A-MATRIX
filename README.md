@@ -24,7 +24,13 @@ print(B)
 
 ```
 ## Output:
-![Screenshot 2025-03-12 132930](https://github.com/user-attachments/assets/07ab161e-e1ea-4939-a31d-a3859b7665c4)
+
+![Screenshot 2025-03-28 142940](https://github.com/user-attachments/assets/5b3246c3-919a-4b05-b5d9-a34db56f4acf)
+
+
+
+
+
 
 ## Result:
 
